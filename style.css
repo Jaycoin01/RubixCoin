@@ -415,6 +415,13 @@ h1 span:nth-child(6){
     .heading{
         display: flex;
         justify-content: center;
+        align-items: center;
+        
+    }
+
+    .nfts-box{
+        justify-content: center;
+        align-items: center;
     }
 
     .road-map{
@@ -449,9 +456,6 @@ h1 span:nth-child(6){
     .home-content h2{
     margin-top: 1.7rem;
 }
-    .heading{
-    justify-content: center;
-    align-items: center;
-    }
+
 }
 
